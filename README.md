@@ -42,4 +42,4 @@ Each can run their own webpack dev server or use the one that is already started
 `npm run test:e2e -- --url http://locahost:8080` - opens the Cypress GUI pointing to the provided url
 
 
-**Author:** Dobromir Hristov
+**Author:** Juarez Reynoso
